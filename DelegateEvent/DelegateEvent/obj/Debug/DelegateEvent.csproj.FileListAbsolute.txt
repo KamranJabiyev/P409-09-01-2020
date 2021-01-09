@@ -1,0 +1,6 @@
+E:\P409\C#\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe.config
+E:\P409\C#\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.exe
+E:\P409\C#\DelegateEvent\DelegateEvent\bin\Debug\DelegateEvent.pdb
+E:\P409\C#\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.csprojAssemblyReference.cache
+E:\P409\C#\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.exe
+E:\P409\C#\DelegateEvent\DelegateEvent\obj\Debug\DelegateEvent.pdb
